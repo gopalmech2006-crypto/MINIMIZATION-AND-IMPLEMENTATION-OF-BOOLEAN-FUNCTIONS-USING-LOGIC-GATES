@@ -2,8 +2,7 @@
 
 ## Observation Record
 
-**Experiment No.:** 1___
-**Date:** 21-04-2026
+**Experiment No.:** 7___
 
 ### Title
 
