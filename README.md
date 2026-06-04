@@ -2,8 +2,8 @@
 
 ## Observation Record
 
-**Experiment No.:** ___9_____
-**Date:** 04-06-2026
+**Experiment No.:** 1___
+**Date:** 21-04-2026
 
 ### Title
 
@@ -11,9 +11,8 @@
 
 ### Author
 
-**Name:** Vageesh Ragav
+**Name:** GOPAL B
 **Department:** Electronics and Communication Engineering (ECE)
-**Institution:** ______________________
 
 ### Aim
 
@@ -60,9 +59,3 @@ Boolean function minimization is the process of reducing the number of terms and
 
 The given Boolean function was successfully minimized and implemented using logic gates. The observed outputs matched the expected truth table values.
 
-### Signature
-
-**Student Name:** Vageesh Ragav
-
-
-**Faculty Signature:** _______________
